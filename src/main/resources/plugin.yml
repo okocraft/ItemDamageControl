@@ -1,0 +1,5 @@
+name: ${project.artifactId}
+version: ${project.version}
+api-version: "1.17"
+main: ${project.groupId}.${project.artifactId}
+author: LazyGon
